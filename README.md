@@ -18,13 +18,13 @@ Del 1:
 
  
 
-* 1. Använda versionshantering (Git) 
+* 1 Använda versionshantering (Git) 
 
-  2. Versionsnumering 
+  2 Versionsnumering 
 
-  3. Bygga och paketera med verktyg 
+  3 Bygga och paketera med verktyg 
 
-  4. Release Branches 
+  4 Release Branches 
 
   Detta är dom grundläggande principera för versionshantering. 
 
